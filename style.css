@@ -1,0 +1,35 @@
+.page-header{
+    color:aliceblue;
+    background-color: rgb(14, 23, 63);
+    text-align: center;
+    font-size: 40px;
+    height: 100px;
+    padding:8px;
+    margin: auto;
+    width: 100%;
+}
+.form-control form-control-sm ml-3 w-75 {
+	float: left;
+}
+#city-weather{
+    height: 250px;
+    margin:auto;
+    position: right;
+    border: solid wheat;
+}
+
+#city-head {
+	width: 100%;
+}
+#city-list {
+	background-color: #eaeef1;
+}
+.day-box {
+	float: left;
+	margin: 5px;
+	height: 100 px;
+	width: 75 px;
+	color: white;
+	background-color: rgb(69, 124, 228);
+	border: solid rgb(246, 243, 243) 2px;
+}
